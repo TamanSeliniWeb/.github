@@ -64,5 +64,5 @@ Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama, silakan hubungi k
 
 Website ini dikembangkan oleh tim kreatif untuk mendukung promosi dan kehadiran digital **Taman Selini Beach Resort**, sebuah resort ramah lingkungan yang terletak di pesisir utara Bali.
 
-Desain dan pengembangan: **[Nama Developer/Tim]**  
+Desain dan pengembangan: **Muhammad Kemal, Riyan Daifullah, Vieri Giofanov Darmawan & Dewa Bagas Pratama** 
 Inspirasi visual: Keindahan alam Bali dan suasana tropis Taman Selini
