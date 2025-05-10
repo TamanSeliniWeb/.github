@@ -40,16 +40,6 @@ Proyek ini dibangun menggunakan teknologi web dasar namun powerful:
 
 ---
 
-## 📸 Preview
-
-Berikut adalah tampilan awal dari landing page Taman Selini Beach Resort:
-
-> *(Tambahkan tangkapan layar di sini dengan format berikut setelah gambar tersedia)*  
->
-> ![Preview Landing Page](./images/preview.png)
-
----
-
 ## 📬 Kontak
 
 Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama, silakan hubungi kami melalui:
