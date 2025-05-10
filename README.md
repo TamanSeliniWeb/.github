@@ -28,3 +28,41 @@ Proyek ini dibangun menggunakan teknologi web dasar namun powerful:
 - ✅ Integrasi Google Maps  
 
 ---
+
+## ✨ Rencana Pengembangan
+
+- [ ] Form pemesanan online (HTML form atau integrasi API)
+- [ ] Testimoni tamu (dengan slider atau carousel)
+- [ ] Multibahasa (Bahasa Indonesia & English)
+- [ ] Optimalisasi SEO dan kecepatan halaman
+- [ ] Animasi tambahan untuk pengalaman pengguna
+- [ ] Integrasi media sosial (Instagram feed, WhatsApp)
+
+---
+
+## 📸 Preview
+
+Berikut adalah tampilan awal dari landing page Taman Selini Beach Resort:
+
+> *(Tambahkan tangkapan layar di sini dengan format berikut setelah gambar tersedia)*  
+>
+> ![Preview Landing Page](./images/preview.png)
+
+---
+
+## 📬 Kontak
+
+Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama, silakan hubungi kami melalui:
+
+- 📧 Email: [info@tamanseliniresort.com](mailto:info@tamanseliniresort.com)
+- 📍 Alamat: Desa Pemuteran, Gerokgak, Buleleng – Bali, Indonesia
+- 🌐 Website: [tamanseliniresort.com](https://tamanseliniresort.com)
+
+---
+
+## 🧡 Credits
+
+Website ini dikembangkan oleh tim kreatif untuk mendukung promosi dan kehadiran digital **Taman Selini Beach Resort**, sebuah resort ramah lingkungan yang terletak di pesisir utara Bali.
+
+Desain dan pengembangan: **[Nama Developer/Tim]**  
+Inspirasi visual: Keindahan alam Bali dan suasana tropis Taman Selini
